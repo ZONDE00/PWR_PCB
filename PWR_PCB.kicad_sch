@@ -127,7 +127,7 @@
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/842988d0-05a7-4b32-9a3b-ba314c85320f"
       (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/38db676c-72d4-426b-be77-78c3b80c3e00"
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/18934653-a141-45f9-983a-a2728c187721"
       (reference "#PWR0126") (unit 1) (value "VDD") (footprint "")
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/75b10488-7e0e-4b49-9a87-1e775d7d1e67"
@@ -156,6 +156,9 @@
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/88bc2b2c-8b5e-4b32-91aa-9cc337c4f91d"
       (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/bd82afa9-9709-4a9b-881a-0afd8f2d020e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/dfc9e2eb-6f2d-4605-a917-9b5e2c5c87b1"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -273,6 +276,9 @@
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/f3891b62-d7e6-4a42-a5bc-1e458354d0b8"
       (reference "Q2") (unit 1) (value "PSMN7R0") (footprint "Package_TO_SOT_SMD:LFPAK33")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/794a7c6f-5b2a-42e1-9c04-b48754355993"
+      (reference "Q3") (unit 1) (value "SIA4371EDJ") (footprint "Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/09b043d5-b1e8-44d5-bc34-ed7c12af2b60"
       (reference "R1") (unit 1) (value "22k") (footprint "Resistor_SMD:R_0402_1005Metric")
