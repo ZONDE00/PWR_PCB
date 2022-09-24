@@ -142,14 +142,20 @@
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/6c51cede-aa25-4085-a31f-f9460829a515"
       (reference "#PWR0130") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/a9aa4b37-e394-4238-82dd-ed92edc4ff05"
+      (reference "#PWR0131") (unit 1) (value "GND") (footprint "")
+    )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/406e0b6a-f097-4e8a-a853-1a2c0831d45e"
-      (reference "#PWR?") (unit 1) (value "+4V") (footprint "")
+      (reference "#PWR0132") (unit 1) (value "+4V") (footprint "")
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/8fd784cd-a095-4bcc-b6a9-550e1a05c6af"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0133") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/a9aa4b37-e394-4238-82dd-ed92edc4ff05"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/3c843de4-7e21-49e0-944b-4aeda53b0e6c"
+      (reference "#PWR0134") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/88bc2b2c-8b5e-4b32-91aa-9cc337c4f91d"
+      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/dfc9e2eb-6f2d-4605-a917-9b5e2c5c87b1"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -252,6 +258,9 @@
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/389c9ebc-7135-4ff0-8d77-8a41314c030d"
       (reference "J4") (unit 1) (value "BAKCBONE") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/76a38dab-7841-4eb3-9aac-e54a29452de0"
+      (reference "J5") (unit 1) (value "DEB") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/0dc88c26-cabf-41f4-9e46-4f028253120e"
       (reference "L1") (unit 1) (value "6.8uH") (footprint "LOCAL:HM72L-06306R8")

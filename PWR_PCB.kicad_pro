@@ -55,7 +55,41 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|102220000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|55a445ad-976f-4d0c-ba66-33ed351b82fb",
+        "silk_over_copper|102220000|105005000|6489a69a-4f19-4a3c-83ef-8e2806450bab|540dd54f-1c27-4493-846c-32e22405dc04",
+        "silk_over_copper|102340000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|37dd64cd-c906-41ca-b470-92b94b29ed4e",
+        "silk_over_copper|102458095|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|c8a31d6d-2472-4342-beff-a045b2fe7109",
+        "silk_over_copper|102576190|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|61c3a98a-fa59-4c6f-90da-14245a580779",
+        "silk_over_copper|102694285|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|5f78a6c6-76dd-4c52-b073-f4486f29f416",
+        "silk_over_copper|102812380|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|6c0ea757-b842-4c9a-a8d8-e53670373ce4",
+        "silk_over_copper|102930475|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|d22e0ef6-94a5-4c0e-8390-aa8dd5370da7",
+        "silk_over_copper|103048570|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|570cb1d2-3b92-40ad-880d-fde879bedc9b",
+        "silk_over_copper|103166665|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|dd13747d-8b9f-46af-8211-6a3f6cd4a4e9",
+        "silk_over_copper|103284760|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|5692ad2e-3b54-469c-83b2-5ab2c4799069",
+        "silk_over_copper|103402855|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|ccf296c7-5128-4c84-b4ca-8ca5b917441c",
+        "silk_over_copper|103520950|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|c38c7371-9777-4a84-8f15-abe295ebc1ce",
+        "silk_over_copper|103639045|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|27229dd6-abea-4fba-b45c-74d843e85111",
+        "silk_over_copper|103757140|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|1bdd478e-fee4-4dd9-ad8d-2e9bba5db42b",
+        "silk_over_copper|103875235|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|2dc79cb9-666c-4703-ae20-a486e9257ca6",
+        "silk_over_copper|103993330|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|bc408668-1aa4-4ab7-8671-4c9c5e91adea",
+        "silk_over_copper|104111425|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|73375e45-ae51-409f-b152-aefe7c05a47e",
+        "silk_over_copper|104229520|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|c06af3b0-68e9-48b1-bfda-a13e17eb21d5",
+        "silk_over_copper|104347615|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|7deeedcc-594a-4beb-a54c-2867252ca265",
+        "silk_over_copper|104465710|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|29eb122e-1bc8-4281-9b1f-c340febb9c15",
+        "silk_over_copper|104583805|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|cce693c1-fd9e-421f-9b84-7b217b31d17c",
+        "silk_over_copper|104701900|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|ebdbaeba-4093-41c2-bad1-69a8837c7eaa",
+        "silk_over_copper|104820000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|08e3fc78-5d47-45ac-a0e2-561e72de3269",
+        "silk_over_copper|107360000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|4c5f61f8-3c14-444c-a779-3e65234b773b",
+        "silk_over_copper|109900000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|ebe9feab-b934-4bf1-b0b2-6076f295685f",
+        "silk_over_copper|112440000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|9bca2552-500c-40b9-a7a0-23beef244124",
+        "silk_over_copper|114980000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|f34f7297-f704-483c-b8e2-5cce9bbbac04",
+        "silk_over_copper|117520000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|79d1918d-394e-40e2-a996-2006b5fb5510",
+        "silk_over_copper|120060000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|1db2f0f8-13b9-411c-b5bd-8305270e25da",
+        "silk_over_copper|122600000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|8b6021c8-8586-4dff-9e19-6f8a277cefd2",
+        "silk_over_copper|125140000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|bfe9a850-b46f-4314-90b9-18039c128c50",
+        "silk_over_copper|127740000|105000000|6489a69a-4f19-4a3c-83ef-8e2806450bab|b7321f4f-7a79-490b-843a-2b6460f67cca"
+      ],
       "meta": {
         "version": 2
       },
@@ -120,9 +154,11 @@
       },
       "track_widths": [
         0.0,
+        0.25,
         0.5,
         0.75,
-        1.0
+        1.0,
+        2.0
       ],
       "via_dimensions": [
         {
