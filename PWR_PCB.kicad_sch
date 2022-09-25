@@ -281,7 +281,7 @@
       (reference "Q3") (unit 1) (value "SIA4371EDJ") (footprint "Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/09b043d5-b1e8-44d5-bc34-ed7c12af2b60"
-      (reference "R1") (unit 1) (value "22k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/252a391f-2414-4400-a955-4a17b6516b35"
       (reference "R2") (unit 1) (value "84.5k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -311,10 +311,10 @@
       (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/682051ba-0766-4645-b1d3-d44668a8d32a"
-      (reference "R11") (unit 1) (value "55k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R11") (unit 1) (value "22k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/a0cf0216-02e4-42ec-8739-a4f405d723ca"
-      (reference "R12") (unit 1) (value "55k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R12") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/28c84608-b109-4c65-a52f-b7f74a0890de"
       (reference "U1") (unit 1) (value "INA180A3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
