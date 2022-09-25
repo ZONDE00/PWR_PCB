@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (date "%%date%%")
+    (rev "%%version%%")
+    (company "BASEMENT")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Current:INA180A3" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 3.81 3.81 0)
@@ -406,6 +412,7 @@
       )
     )
   )
+
 
   (junction (at 39.37 39.37) (diameter 0) (color 0 0 0 0)
     (uuid 02caf270-e1fc-421b-9e9f-615f7788df8f)

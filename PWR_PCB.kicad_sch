@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (date "%%date%%")
+    (rev "%%version%%")
+    (company "BASEMENT")
+  )
+
   (lib_symbols
   )
 
@@ -52,6 +58,18 @@
   )
 
   (symbol_instances
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/4483b82a-4c6d-49c7-ba50-4128496f2f68"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/4dd0a560-7dc2-4901-b564-77c087507c3f"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/3a4937a5-390f-4e22-8b17-9932d60db00d"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/b17facc3-47d6-4ff7-9b86-6381ccb0ad7b"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/4408e293-f6fa-4a92-b869-d3c74ead88ea"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -158,7 +176,7 @@
       (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/bd82afa9-9709-4a9b-881a-0afd8f2d020e"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/dfc9e2eb-6f2d-4605-a917-9b5e2c5c87b1"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -263,7 +281,7 @@
       (reference "J4") (unit 1) (value "BAKCBONE") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal")
     )
     (path "/9dc28bf4-24e4-44da-9bb5-0c98f1202cca/76a38dab-7841-4eb3-9aac-e54a29452de0"
-      (reference "J5") (unit 1) (value "DEB") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+      (reference "J5") (unit 1) (value "DEB") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal")
     )
     (path "/08a162f4-e79c-43d8-b22f-cfc45b757ccd/0dc88c26-cabf-41f4-9e46-4f028253120e"
       (reference "L1") (unit 1) (value "6.8uH") (footprint "LOCAL:HM72L-06306R8")
